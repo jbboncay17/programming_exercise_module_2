@@ -1,0 +1,21 @@
+Name: John Doe
+Email: john.doe@example.com
+Phone: 555-123-4567
+
+Professional Summary:
+Highly motivated Python developer with a strong background in web development and cloud technologies.
+
+Education:
+- Master of Science in Computer Science from University of Example (2023-2025)
+- Bachelor of Science in Software Engineering from Tech Institute (2019-2023)
+
+Experience:
+- Software Engineer at Innovate Corp (2025-Present)
+  - Developed and maintained Python applications
+  - Collaborated on new feature development
+- Intern at Startup Solutions (2024)
+  - Assisted with front-end development
+  - Wrote unit tests for Python modules
+
+Skills:
+Python, Django, Flask, SQL, Git, AWS
