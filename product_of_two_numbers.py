@@ -1,5 +1,9 @@
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
+bold='\033[1m'
+end='\033[0m'
+green='\033[92m'
+
+num1 = int(input(bold+"Enter first number: "))
+num2 = int(input(bold+"Enter second number: "))
 
 product=num1*num2
-print("The product of the two numbers is: ", product)
+print(bold+green+"The product of the two numbers is: "+end, product)
