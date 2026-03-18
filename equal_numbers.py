@@ -6,6 +6,7 @@ red="\033[31m"
 num1 = float(input(bold+"Enter first number: "))
 num2 = float(input(bold+"Enter second number: "))
 print("")
+
 if num1 == num2:
     print(bold+green+"The two numbers are Equal"+end)
 else:
